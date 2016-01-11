@@ -1,2 +1,2 @@
 <?php
-efefef
+echo "hello world";
